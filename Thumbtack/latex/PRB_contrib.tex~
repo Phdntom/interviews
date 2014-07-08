@@ -1,0 +1,18 @@
+%\documentclass[aip, jcp, preprint]
+\documentclass{article}[12pt]
+\begin{document}
+
+\subsection{Computational Details}
+
+\subsection*{Euler Summation}
+
+\begin{equation}
+u_0 - u_1 + u_2 - \ldots - u_{n-1} + \sum_s \frac{(-1)^s}{2^{s+1}}[\Delta^s 
+u_n],
+\end{equation}
+
+
+\subsection*{Calculation of Observables}
+
+ 
+\end{document}
