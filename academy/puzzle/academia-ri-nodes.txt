@@ -1,0 +1,467 @@
+node_id	research_interest
+3637	Advertising
+5346	Archaeological Method & Theory
+854	Computer Vision
+156	Genetics
+13257	Market Research
+7725	Urban Studies
+898	Multiculturalism
+928	Media Studies
+951	Humanities
+943	Tourism Management
+15800	Islamic History
+7655	Architectural History
+1419	Structural Geology
+524	Analytical Chemistry
+1568	Film Theory
+458799	Indian Stock Market
+397	Near Eastern Archaeology
+209	Social Theory
+4758	Electronics
+1252	Remote Sensing
+934	Media and Cultural Studies
+1138	Women's Studies
+29575	Internet Marketing
+277	Urban Geography
+261	Geography
+1601	Teacher Education
+11150	Islamic Studies
+3183	Landscape Architecture
+15588	Social History
+4195	Cultural Theory
+696	Gender Studies
+535	Criminal Law
+10875	Aerodynamics
+136	Cultural History
+17733	Nanotechnology
+16288	Public Health
+8129	Software Development
+14640	Architectural Theory
+41608	Citizenship
+803	Philosophy
+4523	Water quality
+804	Metaphysics
+1555	Film Studies
+248	Social Psychology
+1446	Medieval History
+685	Music History
+15674	Linguistics
+3429	Educational Research
+876818	Financial Ratio Analysis
+3407	Environmental Studies
+5960	Continental Philosophy
+656	Pharmacy
+394	Egyptology
+1237	Social Sciences
+1007	Teaching English as a Second Language
+15439	Teaching English As A Foreign Language
+547	Constitutional Law
+399	Prehistoric Archaeology
+1452	Corporate Social Responsibility
+236	Cognitive Psychology
+5412	Energy
+300	Mathematics
+1589	Photography
+4954	Translation theory
+226	Clinical Psychology
+724	Economics
+459241	Uploading
+92517	Antropologa
+18623	Middle East Politics
+260	Health Psychology
+28871	Java Programming
+1200	Languages and Linguistics
+73	Civil Engineering
+65733	Educational management and leadership
+4524	Sustainable Development
+39	Marketing
+537	Criminal Justice
+734097	Logika Dan Algoritma
+78	Control Systems Engineering
+7888	Literary Theory
+994	Journalism
+2798	Wind Energy
+1300	Brand Management
+221	Psychology
+13958	Media
+2009	Data Mining
+687	Musicology
+145	Biochemistry
+4167	Corporate Governance
+923	Technology
+2524	Sociolinguistics
+859	Communication
+6842	Construction Project Management
+10225	Agriculture
+2575	International Law
+131	European History
+1512	Climate Change
+17580	Human Resources
+2375	Medicinal Chemistry
+12908	International HRM
+102481	Pascal
+620285	History of Philosophy
+2238	Pragmatics
+242	Personality Psychology
+159	Microbiology
+140	Pharmacology
+2467	Conservation Biology
+1614	Web Design
+984	Web 2.0
+402	Environmental Science
+26	Business
+2969	Leadership
+2513	Molecular Biology
+3703	Network Security
+909	Tourism Studies
+1210	Informatics
+3216	Genomics
+958	Historical Archaeology
+237	Cognitive Science
+12135	Qualitative Research
+271955	Stock Market Analysis
+4917	Gender and Sexuality
+18521	Direito
+2349	Semantics
+11076	Late Antiquity
+735	International Economics
+50	Electronic Engineering
+599334	Architecture and Public Spaces
+3279	Psychotherapy and Counseling
+406	Geology
+451	Programming Languages
+686	Music Theory
+748	Financial Economics
+498	Physics
+449	Software Engineering
+5282	Design Research
+106	Religion
+255822	Electronics Engineering
+1236	Art
+16542	Cryptography
+815	Epistemology
+252	Developmental Psychology
+1198	Peace and Conflict Studies
+922	Education
+2132	Cultural Heritage
+55840	Business Management
+3529	Organic agriculture
+71918	Patrimonio Cultural
+892	Statistics
+130	Ancient History
+3723	History of Science
+1439	Globalization
+49837	Historia
+4808	Urban Planning
+23735	Branding
+2008	Machine Learning
+168121	Android Development
+3773	Literary Criticism
+3398	Educational Psychology
+262	Human Geography
+9491	Pedagogy
+7024	Gender
+435	Operating Systems
+10422	National Identity
+25806	Physical Education
+22760	Lesson Study
+6728	Philosophy Of Law
+52321	Web Services and SOA
+26860	Cloud Computing
+6416	Human Resource Management
+5473	Embedded Systems
+1302	Theology
+518	Quantum Physics
+44699	Android
+1707	Armenian Studies
+85718	Marketing Communications
+9538	Consumer Behavior
+393	Classical Archaeology
+1736	Science Education
+10453	Feminism
+2731	Mathematics Education
+977	Development Studies
+548	Civil Law
+422	Computer Science
+50363	Literatura
+1003	Educational Technology
+2795	Landscape Archaeology
+16496	Fluid Dynamics
+145209	Wine Marketing
+15866	Islam
+43884	History of Archaeology
+11927	Michel Foucault
+161	Neuroscience
+7292	Corporate Finance
+148	Botany
+808	Aesthetics
+531	Organic Chemistry
+30883	Irrigation Systems Design
+1414	Bioethics
+1063	Environmental Education
+2435	Fluid Mechanics
+20436	Urban And Regional Planning
+1186	Translation Studies
+54123	Artificial Neural Networks
+988	Design
+27	Entrepreneurship
+2277	Project Management
+1695	Distance Education
+546	Comparative Law
+25116	International Finance
+915	Art History
+46	Business Ethics
+801	Public Policy
+101626	Publisher
+5878	Nationalism
+385234	Political Economy and History
+902	Philosophy Of Religion
+1727	Early Modern History
+2696	Power Electronics
+7870	Medieval Archaeology
+939074	Immigration Status & Nationality
+11199	Neolithic Archaeology
+659	Comparative Literature
+16742	Urban Sociology
+511	Materials Science
+885	English Literature
+2858	Popular Culture
+188	Cultural Studies
+532	Physical Chemistry
+3105	Construction Management
+48550	Religious Studies
+821	Philosophy Of Science
+133	Military History
+2509	Philosophy Of Mathematics
+9822	Education Policy
+6223	English
+108301	Brain Based Learning
+942	Tourism Marketing
+6514	Product Design
+5794	TESOL
+3956	Hospitality Management
+5625	Instructional Technology
+11196	Archaeological GIS
+4986	Public Relations
+201	Political Sociology
+208	Social Movements
+465	Artificial Intelligence
+173	Zoology
+99285	Roman Architecture
+11973	Nanomaterials
+15869	Online Learning
+1185	Image Processing
+3301	Film Analysis
+933	New Media
+60	Mechanical Engineering
+428	Algorithms
+3717	Geotechnical Engineering
+975	Sex and Gender
+1192	Feminist Theory
+30010	Empire
+45405	Global Warming
+56908	Imperialism
+5709	Politics
+2738	Renewable Energy
+77	Robotics
+31307	Marketing Management
+13258	Marketing Research
+540	Islamic Law
+7709	Applied Linguistics
+49905	Sport
+1372	Architecture
+806	Philosophy of Mind
+2606	Innovation
+3490	Accounting
+10679	International Marketing
+2621	Higher Education
+859796	Transparency Market Research
+3136	Qualitative methodology
+2015	Middle East Studies
+2345	Wireless Communications
+7125	Culture
+1335	Supply Chain Management
+618152	Industry market research
+400	Earth Sciences
+799	Public Administration
+48	Engineering
+49	Electrical Engineering
+461991	Administrao e Gesto Educativa
+21327	Sustainable Architecture
+1336	Structural Engineering
+2065	Research Methodology
+30347	Translation
+344045	Visual Basic 6.0
+9846	Ecology
+7560	Public International Law
+16863	Online Journalism
+21928	Islamic Finance
+7453	Rural Development
+8	Critical Theory
+5178	Phenomenology
+3392	Critical Pedagogy
+3474	Community Development
+797	International Relations
+37	Information Systems
+503	Theoretical Physics
+638520	Fashion
+1483	Foreign Policy Analysis
+9136	Wireless Sensor Networks
+4486	Political Science
+671	Music
+6556	Colonialism
+1037	Agronomy
+445280	Hebrew Bible/Old Testament
+305	Applied Mathematics
+7585	ICT in Education
+13827	Cell Biology
+4714	Sexuality
+146	Bioinformatics
+63097	Exercise Science
+51360	Economia
+839277	Tecnologias da Informao e da Comunicao (TIC) na Educao
+128	History
+25413	Civil Procedure
+4060	Applied Statistics
+21548	Cognitive Neuroscience
+2074	International Business
+491	Information Technology
+5321	International Human Rights Law
+6671	Syntax
+380315	Public Administration and Policy
+816	Classics
+1094	Fashion design
+2592	Human Rights
+43883	Tourism
+62	Thermal Engineering
+3524	Historiography
+13297	Cognitive Linguistics
+2553	Social Networking
+764	Macroeconomics
+55	Environmental Engineering
+6528	Biblical Studies
+3499	Social and Cultural Anthropology
+767	Anthropology
+4974	Logistics
+1911	International Studies
+254	Emotion
+47599	Astronomy
+10091	Byzantine Studies
+1306	European Law
+61251	Filosofa
+6908	Banking
+3952	Industrial Design
+15918	Roman archaeology
+7710	Biology
+4252	Computer Networks
+9246	Social Media
+244	Psychoanalysis
+1750	Assessment
+747	Econometrics
+1696	Political Theory
+9336	Theory Of Mechanisms
+2298	Computational Fluid Dynamics
+189	Criminology
+1230	Social Research Methods and Methodology
+5079	Graphic Design
+441	Grid Computing
+6276	International Political Economy
+3051	Contemporary Art
+727	Development Economics
+12022	Numerical Analysis
+2170	Ethnography
+1166	International Relations Theory
+23179	Astrophysics
+51907	Direito Constitucional
+47	Finance
+14554	Armenian Culture
+5273	Class
+20706	Comparative Civil Procedure
+9521	Housing
+1000	Instructional Design
+16153	International Mangement
+184	Sociology
+2853	Medieval Studies
+72	Chemical Engineering
+137	Economic History
+27305	Computational Mathematics
+1279	Science Communication
+4850	Migration
+635	Psychiatry
+796	Comparative Politics
+10882	Evolution
+1187	Ottoman History
+17825	Biodiversity
+14730	Migration Studies
+392	Archaeology
+2482	Database Systems
+523	Chemistry
+802	Political Economy
+814	Ethics
+1233	Social Networks
+1224548	Electrical and Computer Engineering (ECE)
+18845	Environmental Sustainability
+61835	Urban Design
+813	Political Philosophy
+23848	Aquaculture
+3492	Financial Accounting
+974	Sociology of Education
+38	Management
+2084	History of Mathematics
+153	Landscape Ecology
+807	Philosophy Of Language
+1283	Information Security
+91380	Hotel Management
+2473	Material Culture Studies
+3705	International Security
+26327	Medicine
+2169	Human Rights Law
+5009	Strategic Management
+2585	International Development
+135	Intellectual History
+8516	Funerary Archaeology
+344043	Pemrograman Database
+4730	Mass Communication
+23884	Gears
+863	Visual Studies
+4032	Development communication
+19258	Cinema
+60843	Reflective Teaching
+48636	Simulation
+32	Organizational Behavior
+16794	Green architecture
+19870	Research
+2827	Mental Health
+1380	Computer Engineering
+51625	Educacin
+2418	Literature
+472	Human Computer Interaction
+829	Roman History
+11873	Fish Biology
+1085	Epidemiology
+3979	English language
+1609	E-learning
+94	Discourse Analysis
+2869	Digital Media
+21923	Islamic Banking
+103213	Nanoscience
+155	Evolutionary Biology
+5398	Biotechnology
+17871	Physics Education
+7860	Cultural Tourism
+586	Health Sciences
+1432	Natural Language Processing
+45	Business Administration
+14084	Energy and Environment
+46271	Strategy
+13923	Computer Security
+1290	Immunology
+1241	Knowledge Management
+344044	Pemrograman VB 6.0
+1386	Art Theory
+3457	Learning and Teaching
+42197	Iron Age
+181022	Data Structures
+87	Telecommunications Engineering
+1008	Second Language Acquisition
+1009312	Geographic Information Systems (GIS)

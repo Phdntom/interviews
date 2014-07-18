@@ -1,0 +1,68 @@
+The top 10 Research Interests by simple degree:
+
+  Education                	96
+  Computer Science         	66
+  Philosophy               	62
+  History                  	59
+  International Relations  	50
+  Sociology                	49
+  Social Sciences          	49
+  Psychology               	46
+  Communication            	46
+  Business                 	44
+The top 10 Research Interests by Page rank:
+
+  Education                	4.73%
+  Social Sciences          	3.25%
+  History                  	2.85%
+  Philosophy               	2.53%
+  Computer Science         	2.46%
+  Business                 	2.25%
+  Sociology                	2.16%
+  International Relations  	2.00%
+  Psychology               	1.55%
+  Anthropology             	1.51%
+
+The number of connected components is  20
+
+Analyzing each connected component...
+
+Relatedness and Unrelatedness are defined via the
+weighted global eccentricity. Small eccentricity
+means the topic is more related to all subjects.
+Large eccentricity means that the topic is less
+related to all subjects. NOTE: For unrelatedness
+some items have eccenctricty=infinity, since they
+are in different connected components. The numbers
+reported are therefore within a given component.
+
+Any connected component with order less than 5 is not shown.
+
+This component is of order =  417
+Research Interest             Eccentricity
+  Semantics                     4.46
+  Medicine                      4.46
+  Epidemiology                  4.39
+  Community Development         4.34
+  Aerodynamics                  4.32
+    ...
+  Sociology                     2.26
+  Philosophy                    2.25
+  History                       2.25
+  Social Sciences               2.24
+  Education                     2.23
+
+This component is of order =  9
+Research Interest             Eccentricity
+  Irrigation Systems Design     1.95
+  Cultural Tourism              1.95
+  Organic agriculture           1.93
+  Tourism Management            1.67
+  Tourism Marketing             1.59
+    ...
+  Tourism Marketing             1.59
+  Hotel Management              1.48
+  Hospitality Management        1.32
+  Tourism                       1.20
+  Tourism Studies               1.12
+
